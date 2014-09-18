@@ -1,0 +1,3 @@
+A final project of the course 'Statistical Software Tools 2'. 
+
+The program implements an algorithm to generate a genetic relatedness matrix between individuals from a genome-wide panel of SNPs stored in GEN file. It is developed by c++ with RCPP package.
